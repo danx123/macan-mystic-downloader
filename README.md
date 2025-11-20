@@ -13,8 +13,17 @@ Designed for both enthusiasts and professionals, Mystic Downloader simplifies la
 
 ---
 ## 📸 Screenshot
-<img width="831" height="648" alt="Screenshot 2025-11-07 181129" src="https://github.com/user-attachments/assets/0b4a3cf9-f064-4a21-8aa8-f85c1a5713e0" />
+<img width="812" height="690" alt="Screenshot 2025-11-20 080204" src="https://github.com/user-attachments/assets/65a9fae6-b035-4df5-aaaf-5cd10c8f99b8" />
+
 ---
+
+## 📝 Changelog v7.0.0
+
+- Added Top Status Bar: Displays "Total URLs", "Progress", and "Elapsed Time" at the very top of the window.
+- Timer Logic: Ported the QTimer logic from the premium version. The timer starts when you click "Launch Downloader".
+- Item Counting: Added logic to count the number of non-empty lines in the text box to calculate "Total Items".
+- English Translation: Translated all UI text, buttons, and messages from Indonesian to English.
+- Layout Update: Changed the main layout to a Vertical layout to accommodate the new status bar at the top, while keeping the original 2-panel design below it.
 
 
 ## 🚀 Key Features  
