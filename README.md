@@ -18,8 +18,8 @@ Designed for both enthusiasts and professionals, Mystic Downloader simplifies la
 
 ---
 
-## 📝 Changelog v7.2.0
-- Update framework
+## 📝 Changelog v7.2.1
+- Update macan engine
 
 
 ## 🚀 Key Features  
